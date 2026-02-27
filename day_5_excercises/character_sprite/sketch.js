@@ -28,7 +28,7 @@ function setup() {
       cels[i * sX + j] = spriteSheet.get(j * celW, i * celH, celW, celH);
     }
   }
-}
+}j
 
 
 function draw() {
